@@ -1,7 +1,7 @@
-import std.stdio
+import std.stdio;
 
-void main (args[]){
+void main (string[] args) {
 
    writeln("hello D");
 
-};
+}
